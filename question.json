@@ -1,0 +1,408 @@
+{
+  "Vocab": [
+    {
+      "type": "vocab",
+      "question": "handout",
+      "answer": "document"
+    },
+    {
+      "type": "vocab",
+      "question": "fare",
+      "answer": "ticket"
+    },
+    {
+      "type": "vocab",
+      "question": "heir",
+      "answer": "heritier"
+    },
+    {
+      "type": "vocab",
+      "question": "whine",
+      "answer": "se plaindre"
+    },
+    {
+      "type": "vocab",
+      "question": "borrow",
+      "answer": "emprunter"
+    },
+    {
+      "type": "vocab",
+      "question": "lend",
+      "answer": "prêter"
+    },
+    {
+      "type": "vocab",
+      "question": "pet peeve",
+      "answer": "bête noire"
+    },
+    {
+      "type": "vocab",
+      "question": "sequel",
+      "answer": "suite"
+    },
+    {
+      "type": "vocab",
+      "question": "long-lasting",
+      "answer": "durable"
+    },
+    {
+      "type": "vocab",
+      "question": "when it comes to",
+      "answer": "quand il s'agit de faire"
+    },
+    {
+      "type": "vocab",
+      "question": "cater to",
+      "answer": "satisfaire"
+    },
+    {
+      "type": "vocab",
+      "question": "stain",
+      "answer": "tâche"
+    },
+    {
+      "type": "vocab",
+      "question": "custome-made",
+      "answer": "sur mesure"
+    },
+    {
+      "type": "vocab",
+      "question": "relatable",
+      "answer": "à qui l'on peut s'identifier"
+    },
+    {
+      "type": "vocab",
+      "question": "spokesperson",
+      "answer": "porte-parole"
+    },
+    {
+      "type": "vocab",
+      "question": "dubious",
+      "answer": "douteux"
+    },
+    {
+      "type": "vocab",
+      "question": "patent",
+      "answer": "brevet"
+    },
+    {
+      "type": "vocab",
+      "question": "sweeten the pot",
+      "answer": "rendre plus alléchant"
+    },
+    {
+      "type": "vocab",
+      "question": "takeaway",
+      "answer": "point à retenir"
+    },
+    {
+      "type": "vocab",
+      "question": "upkeep",
+      "answer": "entretien"
+    },
+    {
+      "type": "vocab",
+      "question": "groundbreaking",
+      "answer": "révolutionnaire"
+    }
+  ],
+  "Extreme Adjectif": [
+    {
+      "type": "extreme-adjectif",
+      "question": "very loud",
+      "answer": ["noisy", "deafening"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very big",
+      "answer": ["huge", "gigantic", "giant"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very small",
+      "answer": ["tiny"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very easy",
+      "answer": ["effortless", "simple"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very cold",
+      "answer": ["freezing"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very hot",
+      "answer": ["boiling", "scorching"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very scared",
+      "answer": ["terrified", "petrified"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very confident",
+      "answer": ["assured", "cocky", "smug", "full of yourself"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very angry",
+      "answer": ["furious", "livid", "enraged"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very pretty",
+      "answer": ["gorgeous"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very ugly",
+      "answer": ["hideous"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very bad",
+      "answer": ["awful"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very dirty",
+      "answer": ["filthy"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very funny",
+      "answer": ["hilarous"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very hungry",
+      "answer": ["starving", "ravenous"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very scary",
+      "answer": ["terrifying"]
+    },
+    {
+      "type": "extreme-adjectif",
+      "question": "very tired",
+      "answer": ["exhausted"]
+    }
+  ],
+  "Adjectif Order": [
+    {
+    "type": "adjectif-order",
+    "question": "She bought a _ _ _ _ dinning table",
+    "answer": ["gorgeous", "old", "round", "wooden"]
+    },
+    {
+    "type": "adjectif-order",
+    "question": "The artist presented her _ _ _ _canvas",
+    "answer": ["stunning", "small", "modern", "square"]
+    },
+    {
+    "type": "adjectif-order",
+    "question": "He always carries his _ _ _ briefcase to work",
+    "answer": ["big", "black", "leather"]
+    },
+    {
+    "type": "adjectif-order",
+    "question": "My sister adopted a _ _ _ bulldog.",
+    "answer": ["beautiful", "big", "white"]
+    },
+    {
+    "type": "adjectif-order",
+    "question": "The _ _ _ plates",
+    "answer": ["beautiful little gold"]
+    },
+    {
+    "type": "adjectif-order",
+    "question": "I love that _ _ _ _ _ car",
+    "answer": ["beautiful", "old", "big", "green", "antique"]
+    }
+  ],
+  "Shark tank vocab": [
+    {
+      "type": "vocab",
+      "question": "equity",
+      "answer": "ownership in a company, often given to investors in exchange for funding / propriété dans une entreprise, souvent donnée aux investisseurs en échange de financement"
+    },
+    {
+      "type": "vocab",
+      "question": "valuation",
+      "answer": "the estimated worth of a company / (trad : valorisation) la valeur estimée d'une entreprise"
+    },
+    {
+      "type": "vocab",
+      "question": "angel investor",
+      "answer": "an angel investor gives money to a new business in exchange for equity or convertible debt (also called informal investor, seed investor or business angel) / un 'angel investor' donne de l'argent à une nouvelle entreprise en échange d'équité ou de dette convertible"
+    },
+    {
+      "type": "vocab",
+      "question": "debpt",
+      "answer": "What you owe / (trad : dette) ce que vous devez"
+    },
+    {
+      "type": "vocab",
+      "question": "gross revenue",
+      "answer": "the total revenue a business earns before deducting expenses / (trad : revenue brut) le revenu total qu'une entreprise gagne avant de déduire les dépenses"
+    },
+    {
+      "type": "vocab",
+      "question": "net income",
+      "answer": "the profit remaining after all expenses have been deducted from gross revenue / (trad : revenu net) le bénéfice restant après que toutes les dépenses ont été déduites du revenu brut"
+    },
+    {
+      "type": "vocab",
+      "question": "margin",
+      "answer": "a company's profit from its operations, calculated by substracting total expenses from total revenue / (trad : marge) le bénéfice d'une entreprise provenant de ses opérations, calculé en soustrayant les dépenses totales des revenus totaux"
+    },
+    {
+      "type": "vocab",
+      "question": "ROI",
+      "answer": "Return on Investment, a measure of the profitability of an investment relative to its cost / (trad : retour sur investissement) une mesure de la rentabilité d'un investissement par rapport à son coût"
+    },
+    {
+      "type": "vocab",
+      "question": "due diligence",
+      "answer": "the research work a business does before entering into any transaction or paper deal with a third party / (trad : diligence raisonnable) le travail de recherche qu'une entreprise effectue avant d'entrer dans une transaction ou un accord papier avec un tiers"
+    },
+    {
+      "type": "vocab",
+      "question": "royalty",
+      "answer": "in a royalty deal, an investor gives money to a company and, in return, gets a share of the company's sales / (trad : redevance) dans un accord de redevance, un investisseur donne de l'argent à une entreprise et, en retour, obtient une part des ventes de l'entreprise"
+    },
+    {
+      "type": "vocab",
+      "question": "stake/shares",
+      "answer": "the percentage owned in a company / (Trad : participation/parts) le pourcentage détenu dans une entreprise"
+    },
+    {
+      "type": "vocab",
+      "question": "target audience",
+      "answer": "the specific group of people a business aims to reach with its products or services / (trad : public cible) le groupe spécifique de personnes qu'une entreprise vise à atteindre avec ses produits ou services"
+    },
+    {
+      "type": "vocab",
+      "question": "market value",
+      "answer": "the price at which an asset would trade in a competitive market setting / (trad : valeur marchande) le prix auquel un actif serait échangé dans un marché concurrentiel"
+    },
+    {
+      "type": "vocab",
+      "question": "intellectual property / patent",
+      "answer": "it refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, names and images used in commerce / (trad : propriété intellectuelle / brevet) cela fait référence aux créations de l'esprit, telles que les inventions, les œuvres littéraires et artistiques, les designs, les symboles, les noms et les images utilisés dans le commerce"
+    },
+    {
+      "type": "vocab",
+      "question": "loan",
+      "answer": "money borrowed that is expected to be paid back with interest / (trad : prêt) de l'argent emprunté qui doit être remboursé avec des intérêts"
+    },
+    {
+      "type": "vocab",
+      "question": "profit margin",
+      "answer": "a measure of how much money a company is making on its products or services after subtracting all of the direct and indirect costs involved / (trad : marge bénéficiaire) une mesure de combien d'argent une entreprise gagne sur ses produits ou services après avoir soustrait tous les coûts directs et indirects impliqués"
+    }
+  ],
+  "Conditionnel":[
+    {
+      "type": "conditionnel",
+      "degree": "0",
+      "question": "If you mix red and yellow, you (get) orange.",
+      "answer": "get"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "0",
+      "question": "If you heat ice, it (melt).",
+      "answer": "melts"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "0",
+      "question": "If you (touch) a flame, it burns.",
+      "answer": "touch"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "1",
+      "question": "If it rains, I (not go) to the park.",
+      "answer": "will not go"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "1",
+      "question": "If I study today, I (go) to the party tonight.",
+      "answer": "will go"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "1",
+      "question": "If I (have) enough money, I'll buy some new shoes.",
+      "answer": "have"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "1",
+      "question": "She (be) late if the train is delayed.",
+      "answer": "will be"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "1",
+      "question": "She'll miss the bus if she (do not) leave soon.",
+      "answer": "does not"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "2",
+      "question": "If I won a million dollars, I (buy) a manor house.",
+      "answer": "would buy"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "2",
+      "question": "If I (win) the lottery, I would travel around the world.",
+      "answer": "won"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "2",
+      "question": "If I had time, I (go) swimming every day.",
+      "answer": "would go"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "2",
+      "question": "I (buy) a new car if I got a promotion.",
+      "answer": "would buy"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "3",
+      "question": "If I had done my homework, I (get) a good grade at the exam.",
+      "answer": "would have got"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "3",
+      "question": "If I (know) you were in town, I would have invited you to dinner.",
+      "answer": "had known"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "3",
+      "question": "If I had seen her, I (tell) her the news.",
+      "answer": "would have told"
+    },
+    {
+      "type": "conditionnel",
+      "degree": "3",
+      "question": "If they had left earlier, they (not miss) the train.",
+      "answer": "would not have missed"
+    }
+  ]
+}
