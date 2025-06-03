@@ -108,87 +108,87 @@
   ],
   "Extreme Adjectif": [
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very loud",
-      "answer": ["noisy", "deafening"]
+      "answer": ["noisy-deafening"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very big",
-      "answer": ["huge", "gigantic", "giant"]
+      "answer": ["huge-gigantic-giant"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very small",
       "answer": ["tiny"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very easy",
-      "answer": ["effortless", "simple"]
+      "answer": ["effortless-simple"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very cold",
       "answer": ["freezing"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very hot",
-      "answer": ["boiling", "scorching"]
+      "answer": ["boiling-scorching"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very scared",
-      "answer": ["terrified", "petrified"]
+      "answer": ["terrified-petrified"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very confident",
-      "answer": ["assured", "cocky", "smug", "full of yourself"]
+      "answer": ["assured-cocky-smug-full of yourself"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very angry",
-      "answer": ["furious", "livid", "enraged"]
+      "answer": ["furious-livid-enraged"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very pretty",
       "answer": ["gorgeous"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very ugly",
       "answer": ["hideous"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very bad",
       "answer": ["awful"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very dirty",
       "answer": ["filthy"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very funny",
       "answer": ["hilarous"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very hungry",
-      "answer": ["starving", "ravenous"]
+      "answer": ["starving-ravenous"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very scary",
       "answer": ["terrifying"]
     },
     {
-      "type": "extreme-adjectif",
+      "type": "vocab",
       "question": "very tired",
       "answer": ["exhausted"]
     }
@@ -217,7 +217,7 @@
     {
     "type": "adjectif-order",
     "question": "The _ _ _ plates",
-    "answer": ["beautiful little gold"]
+    "answer": ["beautiful", "little",  "gold"]
     },
     {
     "type": "adjectif-order",
