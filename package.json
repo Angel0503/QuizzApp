@@ -2,7 +2,7 @@
   "name": "quizz-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://angel0503.github.io/angel0503.github.io",
+  "homepage": "https://angel0503.github.io/quizz-app",
 
   "type": "module",
   "scripts": {

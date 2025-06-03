@@ -3,6 +3,7 @@ import type { ChangeEvent } from "react";
 import "./App.css";
 
 //TODO : ADJECTIF ORDRE MARCHE PAS sur la premiere question
+// voir pk
 
 // === Types ===
 type Question =
