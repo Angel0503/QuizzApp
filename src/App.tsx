@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import type { ChangeEvent } from "react";
 import "./App.css";
 
+//TODO : ADJECTIF ORDRE MARCHE PAS sur la premiere question
+
 // === Types ===
 type Question =
   | {
